@@ -1,34 +1,91 @@
 # Md. Ragib Ashhab
 
-CSE student and developer focused on Java, computer graphics, game development and digital logic.
+### CSE Student • Java Developer • Computer Graphics • Digital Logic
 
-## About Me
+I’m a Computer Science & Engineering student building practical projects across **Java, game development, computer graphics, digital logic, and AI fundamentals**.
 
-- 🎓 Computer Science & Engineering student
-- ☕ Learning and building with Java
-- 🎮 Interested in game development and interactive applications
-- 🧮 Interested in 3D mathematics, computer graphics and simulations
-- 💻 Building projects that connect software and computer-engineering fundamentals
+I enjoy turning university concepts into working software and hardware-oriented projects.
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 3D Wireframe Robotic Arm
-Interactive Java Swing application with custom 3D transformations, matrix mathematics, perspective projection, animation and robotic-joint controls.
+### 🤖 AC Control AI Systems
+A Python-based educational AI project combining:
+- Fuzzy-logic temperature control
+- First-order predicate logic for smart-room reasoning
+- Q-learning-style reinforcement learning
+- Data generation and processing
+- Automated tests with GitHub Actions
 
-### My First Game
-2D Java adventure game demonstrating a real-time game loop, tile maps, collision detection, player movement, objects, audio and HUD rendering.
+[View Project](https://github.com/TheKIAR/AC-Control-AI-Systems-Project)
 
-### 8-Bit ALU and Flag Register
-Logisim Evolution project implementing ADD, SUB, AND and OR operations with Zero, Carry, Negative and Parity status flags.
+### 🦾 3D Wireframe Robotic Arm
+Interactive Java Swing application featuring:
+- Custom 3D transformation matrices
+- Perspective projection
+- Robotic joint controls
+- Animation and smart poses
+- Real-time keyboard interaction
 
-## Technologies
+[View Project](https://github.com/TheKIAR/3d-Wireframe-Robotic-Arm)
 
-**Languages:** Java, C/C++ fundamentals
+### 🎮 My First Game
+A 2D Java adventure game demonstrating:
+- Real-time game loop
+- Tile-map rendering
+- Collision detection
+- Player movement
+- Objects, audio and HUD systems
 
-**Areas:** OOP, Computer Graphics, Digital Logic, Algorithms, Game Development
+[View Project](https://github.com/TheKIAR/My-First-Game)
 
-**Tools:** Git, GitHub, Java Swing/AWT, Logisim Evolution
+### 🧮 8-Bit ALU & Flag Register
+A Logisim Evolution digital-logic project implementing:
+- ADD
+- SUB
+- AND
+- OR
+- Zero, Carry, Negative and Parity flags
 
-## Connect
+[View Project](https://github.com/TheKIAR/8-Bit-ALU-and-Flag-Register-with-Logic-Status-Unit)
 
-- [Linktree](https://linktr.ee/RagibAshhab)
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- Python
+- C/C++ fundamentals
+
+**Core Areas**
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Computer Graphics
+- Game Development
+- Digital Logic
+- Artificial Intelligence fundamentals
+
+**Tools & Technologies**
+- Git & GitHub
+- Java Swing / AWT
+- Logisim Evolution
+- GitHub Actions
+- VS Code
+
+## 📌 Currently Learning
+
+- Advanced Java development
+- Python-based AI systems
+- Computer graphics and 3D mathematics
+- Software engineering practices
+- Building cleaner, tested and documented projects
+
+## 📂 Portfolio
+
+Explore my repositories and projects:
+
+**GitHub:** https://github.com/TheKIAR
+
+**Linktree:** https://linktr.ee/RagibAshhab
+
+---
+
+*I build, learn, improve, and document one project at a time.*
