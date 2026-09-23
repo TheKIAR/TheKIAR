@@ -1,8 +1,8 @@
 # Md. Ragib Ashhab
 
-### CSE Student • Java Developer • Computer Graphics • Digital Logic
+### CSE Student | Java & Python Developer | Software, AI & Computer Graphics
 
-I’m a Computer Science & Engineering student building practical projects across **Java, game development, computer graphics, digital logic, and AI fundamentals**.
+I’m a Computer Science & Engineering student building practical projects across **Java, Python, artificial intelligence, computer graphics, game development, and digital logic**.
 
 I enjoy turning university concepts into working software and hardware-oriented projects.
 
@@ -78,14 +78,16 @@ A Logisim Evolution digital-logic project implementing:
 - Software engineering practices
 - Building cleaner, tested and documented projects
 
-## 📂 Portfolio
+## 🌐 Connect With Me
 
-Explore my repositories and projects:
+**Portfolio:** https://ragibashhab.netlify.app/
 
 **GitHub:** https://github.com/TheKIAR
+
+**LinkedIn:** https://www.linkedin.com/in/md-ragib-ashhab-768a19240/
 
 **Linktree:** https://linktr.ee/RagibAshhab
 
 ---
 
-*I build, learn, improve, and document one project at a time.*
+*Building, learning, testing, and improving — one project at a time.*
