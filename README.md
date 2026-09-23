@@ -4,7 +4,7 @@
 
 I’m a Computer Science & Engineering student building practical projects across **Java, Python, artificial intelligence, computer graphics, game development, and digital logic**.
 
-I enjoy turning university concepts into working software and hardware-oriented projects.
+I enjoy turning university concepts into working software and hardware-oriented projects, while documenting what I learn along the way.
 
 ## 🚀 Featured Projects
 
@@ -70,6 +70,13 @@ A Logisim Evolution digital-logic project implementing:
 - GitHub Actions
 - VS Code
 
+## 🤝 What I Like Building
+
+- Practical Java applications and interactive graphics
+- Python-based AI and automation projects
+- Digital-logic and computer-architecture experiments
+- Small projects that turn coursework into demonstrable portfolio work
+
 ## 📌 Currently Learning
 
 - Advanced Java development
@@ -89,5 +96,7 @@ A Logisim Evolution digital-logic project implementing:
 **Linktree:** https://linktr.ee/RagibAshhab
 
 ---
+
+If you’re exploring one of my projects, the repository README is the best place to start — it includes the technology, setup steps, and project context.
 
 *Building, learning, testing, and improving — one project at a time.*
