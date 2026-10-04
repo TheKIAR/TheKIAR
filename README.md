@@ -6,12 +6,20 @@ I’m a Computer Science & Engineering student who enjoys turning university con
 
 My portfolio focuses on practical software, AI experiments, interactive graphics, game development and digital-logic projects — with an emphasis on learning by building.
 
+---
+
 ## 🚀 Featured Projects
 
 ### ⏱️ Secount — Countdown Studio
 **Kotlin • Compose Multiplatform • Android • Desktop • Material 3**
 
 A cross-platform countdown app built around a simple idea: **some messages are worth waiting for**.
+
+<p align="center">
+  <a href="https://github.com/TheKIAR/Secount">
+    <img src="https://github.com/TheKIAR/Secount/blob/main/assets/runtime-screenshot.png?raw=true&v=c70f34dac218926283ddd611f6e45726b3100ce3" alt="Secount home screen" width="720">
+  </a>
+</p>
 
 - Modern Material UI with Valentine-inspired design
 - Live countdowns for any occasion
@@ -81,6 +89,8 @@ A digital-logic project implementing:
 - Parity flag
 
 [View Project →](https://github.com/TheKIAR/8-Bit-ALU-and-Flag-Register-with-Logic-Status-Unit)
+
+---
 
 ## 🛠️ Tech Stack
 
