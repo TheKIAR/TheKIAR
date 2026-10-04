@@ -90,6 +90,8 @@ An educational intelligent-room system combining multiple AI approaches into one
 
 **Highlights:** fuzzy temperature control · FOPL smart-room reasoning · Q-learning-style RL · data generation/processing · GUI · automated tests
 
+<p align="center"><img src="https://raw.githubusercontent.com/TheKIAR/AC-Control-AI-Systems-Project/main/assets/demo.gif" alt="AI Control Systems demo" width="760"></p>
+
 **→ [Explore AI Systems](https://github.com/TheKIAR/AC-Control-AI-Systems-Project)**
 
 ---
@@ -108,6 +110,8 @@ An interactive 3D wireframe robotic-arm project focused on transformations, proj
 
 **Highlights:** transformation matrices · perspective projection · joint controls · smart poses · animation · keyboard interaction
 
+<p align="center"><img src="https://raw.githubusercontent.com/TheKIAR/3d-Wireframe-Robotic-Arm/main/assets/demo.gif" alt="3D Wireframe Robotic Arm demo" width="760"></p>
+
 **→ [Explore Robotic Arm](https://github.com/TheKIAR/3d-Wireframe-Robotic-Arm)**
 
 ---
@@ -125,6 +129,8 @@ A hands-on 2D adventure project built to explore the fundamentals of game progra
 </p>
 
 **Highlights:** game loop · tile-map rendering · collision detection · player movement · objects · audio · HUD · runtime demo
+
+<p align="center"><img src="https://raw.githubusercontent.com/TheKIAR/My-First-Game/main/assets/demo.gif" alt="My First Game gameplay demo" width="760"></p>
 
 **→ [Explore My First Game](https://github.com/TheKIAR/My-First-Game)**
 
