@@ -39,6 +39,12 @@ A cross-platform countdown app built around a simple idea: **some messages are w
 
 An educational AI project exploring several approaches to intelligent room-control systems:
 
+<p align="center">
+  <a href="https://github.com/TheKIAR/AC-Control-AI-Systems-Project">
+    <img src="https://github.com/TheKIAR/AC-Control-AI-Systems-Project/blob/main/assets/runtime-screenshot.png?raw=true&v=69a860e52717c841e74b11f5b417862d8c82ab62" alt="AC Control AI Systems runtime screenshot" width="720">
+  </a>
+</p>
+
 - Fuzzy-logic temperature control
 - First-order predicate logic for smart-room reasoning
 - Q-learning-style reinforcement learning
@@ -51,6 +57,12 @@ An educational AI project exploring several approaches to intelligent room-contr
 **Java • Swing/AWT • 3D Mathematics • Computer Graphics**
 
 Interactive graphics project featuring:
+
+<p align="center">
+  <a href="https://github.com/TheKIAR/3d-Wireframe-Robotic-Arm">
+    <img src="https://github.com/TheKIAR/3d-Wireframe-Robotic-Arm/blob/main/assets/runtime-screenshot.png?raw=true&v=6507d93fb03452994108a8c5e6845420f9054a4d" alt="3D Wireframe Robotic Arm runtime screenshot" width="720">
+  </a>
+</p>
 
 - 3D transformation matrices
 - Perspective projection
@@ -65,6 +77,12 @@ Interactive graphics project featuring:
 
 A 2D adventure game demonstrating:
 
+<p align="center">
+  <a href="https://github.com/TheKIAR/My-First-Game">
+    <img src="https://github.com/TheKIAR/My-First-Game/blob/main/assets/runtime-screenshot.png?raw=true&v=ddc024558fc58f4b38facd58b939706b62e9e01b" alt="My First Game runtime screenshot" width="720">
+  </a>
+</p>
+
 - Real-time game loop
 - Tile-map rendering
 - Collision detection
@@ -78,6 +96,12 @@ A 2D adventure game demonstrating:
 **Logisim Evolution • Digital Logic • Computer Architecture**
 
 A digital-logic project implementing:
+
+<p align="center">
+  <a href="https://github.com/TheKIAR/8-Bit-ALU-and-Flag-Register-with-Logic-Status-Unit">
+    <img src="https://github.com/TheKIAR/8-Bit-ALU-and-Flag-Register-with-Logic-Status-Unit/blob/main/assets/runtime-screenshot.png?raw=true&v=433e43c3aa229941d3d2585df68c5c70ff171c62" alt="8-Bit ALU runtime screenshot" width="720">
+  </a>
+</p>
 
 - ADD
 - SUB
